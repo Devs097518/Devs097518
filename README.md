@@ -31,21 +31,6 @@ Fora do código, sou leitor e escritor de histórias. ✍️
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Devs097518&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devs097518&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Devs097518&theme=github-dark&hide_border=true&locale=pt_BR" />
-
-</div>
-
----
-
 ## 🚀 Projeto em Destaque
 
 **[CodeMap](https://github.com/Devs097518/codemap)** — Aplicação web de roadmaps interativos para programadores juniores, com registro de progresso e curadoria de conteúdos em ordem estruturada.
