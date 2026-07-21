@@ -1,51 +1,81 @@
 <div align="center">
 
-# Olá, eu sou Dayvson 👋
+# Olá, sou o Dayvson 👋
 
 </div>
 
-Graduando em **Sistemas para Internet**, com contato com programação desde o ensino médio — movido pela vontade de criar soluções digitais e explorar novas formas de resolver problemas.
+Graduando em **Sistemas para Internet**, movido pela vontade de criar soluções digitais e explorar novas formas de resolver problemas.
 
-Atualmente focado na stack **PERN** com TypeScript, construindo projetos que unem boa arquitetura e experiência de usuário.
+</br>
 
-Fora do código, sou leitor e escritor de histórias. ✍️
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvson-lacerda-327031216)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayvsonnlacerda360@gmail.com)
 
-## 🧰 Stack Principal
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-## 🛠️ Também utilizo
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🚀 Projeto em Destaque
-
-**[CodeMap](https://github.com/Devs097518/codemap)** — Aplicação web de roadmaps interativos para programadores juniores, com registro de progresso e curadoria de conteúdos em ordem estruturada.
-
-`Next.js` · `React` · `Node.js` · `Express` · `PostgreSQL`
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvson-lacerda-327031216)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dayvsonnlacerda360@gmail.com)
-
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devs097518/Devs097518/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devs097518/Devs097518/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Devs097518/Devs097518/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+---
+
+## Tecnologias Favoritas
+Ferramentas, linguagens e outras coisas na qual gosto de trabalhar.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts"  /><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="48" /><br>
+      Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>
+      PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48" /><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>
+      Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>
+      Tailwind
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>
+      MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="48" /><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br>
+      Git
+    </td>
+  </tr>
+</table>
+
+---
+
+![](https://github.com/[Devs097518]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/[Devs097518]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devs097518&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
