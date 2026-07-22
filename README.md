@@ -72,9 +72,14 @@ Ferramentas, linguagens e outras coisas na qual gosto de trabalhar.
 
 ---
 
-![](https://raw.githubusercontent.com/Devs097518/github-stats/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Devs097518/github-stats/generated/languages.svg#gh-dark-mode-only)
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+<div align="center">
+  
+  ![](https://raw.githubusercontent.com/Devs097518/informativo/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/Devs097518/informativo/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/Devs097518/informativo/generated/languages.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/Devs097518/informativo/generated/languages.svg#gh-light-mode-only)
+  
+</div>
 
 ---
 
