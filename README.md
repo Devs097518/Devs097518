@@ -83,5 +83,3 @@ Construindo projetos com **Node.js · React · PostgreSQL · TypeScript**
   ![](https://raw.githubusercontent.com/Devs097518/informativo/generated/languages.svg#gh-light-mode-only)
   
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devs097518&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
